@@ -1,0 +1,19 @@
+{
+    "name": "santiagomartinez/bienesraices_inicio",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cmartinezco98",
+            "email": "cmartinezcodev@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4":{
+            "App\\":"./classes"
+        }
+    }
+}
